@@ -1,12 +1,6 @@
 
 @charset "UTF-8";
 
-html{
-
-    font-size: 100%;
-
-}
-
 #page {
     width: 100%;
     margin: 0 auto;
@@ -72,4 +66,9 @@ html{
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
     width:  180px;       /* ※縦横を同値に */
     height: 180px;       /* ※縦横を同値に */
+}
+
+#mainicon{
+border-radius: 50%;
+
 }
