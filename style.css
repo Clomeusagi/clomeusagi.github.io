@@ -70,5 +70,6 @@
 
 #mainicon{
 border-radius: 50%;
-
+width:  100px;       /* ※縦横を同値に */
+    height: 60px;
 }
